@@ -36,7 +36,6 @@ index.html        – Main page
 katalog.html      – Product catalog  
 katalog.css       – Catalog styling  
 site.css          – Main styles
-1-15.html         - product card
 
 Learning Outcomes
 
